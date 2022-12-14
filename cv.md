@@ -3,10 +3,10 @@
 
 ***
 ### Contacts
-Github: https://github.com/MidnightCoderUa
-Portfolio: portfolio.com.ua
-E-mail: mr.gtirunner@gmail.com
-Phone: +380 957178901
+* **Github:** [MidnightCoderUa](https://github.com/MidnightCoderUa)
+* **Portfolio:**  [portfolio web site](https://google.com)
+* **E-mail:** [mr.gtirunner@gmail.com](mr.gtirunner@gmail.com)
+* **Phone:** +380 957178901
 
 ***
 ### Summary
@@ -25,7 +25,7 @@ Highly motivated Developer with experience coding websites, flexible within the 
 * MongoDB
 * QA manual
 * Figma, Photoshop, UX/UI;
-* Experience with CMS (Strapi, WP, Joomla, Bitrix, etc.)
+* CMS (Strapi, WP, Joomla, Bitrix, etc.)
 
 ***
 ### Code example
@@ -41,20 +41,21 @@ const SomeAwsomeTitle =()=>{
 
 ***
 ### Experience
+* 2023 Pet & study projects 
 * 2021- Site administrator Egle.ua 
-* 2019-2021 Buyer Parfums.ua/Laparfums.pl
+* 2019-2021 Buyer Parfums.ua 
 * 2018-2019 Content manager, HTML Developer Avtoradosti.com.ua
 * 2015-2018 Content manager, HTML Developer Parfums.ua
 
 ***
 ### Education
 * Taras Shevchenko National University of Kyiv
-+ History & Law, Master’s Degree
-+ Law, Bachelor's Degree
+* History & Law, Master’s Degree
+* Law, Bachelor’s Degree
 * Intermediate English Course, D'elite School
 * Freecodecamp
-+ Responsive Web Design
-+ Front-End Development Libraries
+  * Responsive Web Design
+  * Front-End Development Libraries
 * Programming Essentials, DAN IT education
 * Javascript/Front-End Programming, Rolling Scopes School
 
