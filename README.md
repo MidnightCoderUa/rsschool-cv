@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MidnightCoderUa.github.io/rsschool-cv/cv
