@@ -10,7 +10,7 @@
 
 ***
 ### Summary
-Highly motivated Developer with experience coding websites, flexible within the working environment and able to adapt quickly and positively to challenging situations. I am a quick learner and a good team member with a sharp eye for details.
+Highly motivated Developer with experience of coding websites, flexible within the working environment and able to adapt quickly and positively to challenging situations. I am a quick learner and a good team member with a sharp eye for details.
 
 ***
 ### Skills
@@ -50,8 +50,8 @@ const SomeAwsomeTitle =()=>{
 ***
 ### Education
 * Taras Shevchenko National University of Kyiv
-* History & Law, Master’s Degree
-* Law, Bachelor’s Degree
+  * History & Law, Master’s Degree
+  * Law, Bachelor’s Degree
 * Intermediate English Course, D'elite School
 * Freecodecamp
   * Responsive Web Design
