@@ -58,4 +58,7 @@ const SomeAwsomeTitle =()=>{
 
 ***
 ### Languages
+* English (B2);
+* Ukrainian (C2);
+* Russian (C2);
 
