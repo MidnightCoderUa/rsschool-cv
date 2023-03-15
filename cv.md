@@ -1,5 +1,5 @@
 # Ihor Oleksiyovich
-### Front-End Developer
+### Senior Full Stack Developer
 
 ---
 ### Contacts
@@ -42,7 +42,10 @@ const SomeAwsomeTitle =()=>{
 
 ***
 ### Experience
-
+* 2022- Senior Full Stack Developer, SoftServe
+* 2020-2022 Full Stack Developer, Luxoft
+* 2018-2020 Senior Front-End Developer,  Ciklum
+* 2015-2018 Front-End Developer, Infopulse
 
 ***
 ### Education
